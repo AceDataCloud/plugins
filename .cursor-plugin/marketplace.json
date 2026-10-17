@@ -546,7 +546,7 @@
     {
       "name": "seedance",
       "source": "third_party/seedance",
-      "description": "Generate Seedance videos and retrieve the finished clip."
+      "description": "Generate Seedance text-to-video or image-to-video with Ace Data Cloud and retrieve completed videos by task ID."
     },
     {
       "name": "tailscale",
