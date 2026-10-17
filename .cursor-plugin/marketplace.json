@@ -546,7 +546,7 @@
     {
       "name": "gpt-image",
       "source": "third_party/gpt-image",
-      "description": "Generate GPT Image pictures and retrieve the finished image."
+      "description": "Generate or edit GPT Image pictures with Ace Data Cloud; retrieve completed images using the original task ID."
     },
     {
       "name": "tailscale",
