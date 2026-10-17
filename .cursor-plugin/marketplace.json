@@ -546,7 +546,7 @@
     {
       "name": "suno",
       "source": "third_party/suno",
-      "description": "Generate Suno music through Ace Data Cloud and retrieve completed songs by task ID."
+      "description": "Generate Suno music and lyrics with Ace Data Cloud; query the original task ID for completed audio."
     },
     {
       "name": "tailscale",
